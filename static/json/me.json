@@ -36,7 +36,7 @@
     {
         "name":"联系电话",
         "text":"136-8523-3639",
-        "more":false,
+        "more":true,
         "icon":"icon-shouji",
         "href":"tel:13685233639",
         "link":""
