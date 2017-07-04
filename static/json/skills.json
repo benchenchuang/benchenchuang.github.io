@@ -16,14 +16,6 @@
     "power_txt":"熟悉度"
   },
   {
-    "style":"skill_php",
-    "name1":"Php",
-    "name2":"PHP",
-    "txt":"熟悉基本PHP语法及基本规则，可对数据库进行增删改查的基本操作",
-    "power":"40%",
-    "power_txt":"熟悉度"
-  },
-  {
     "style":"skill_jq",
     "name1":"Jq",
     "name2":"Jquery",
