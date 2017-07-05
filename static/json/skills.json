@@ -1,7 +1,7 @@
 ﻿[
    {
     "style":"skill_node",
-    "name1":"node",
+    "name1":"Nd",
     "name2":"NodeJS",
     "txt":"熟悉NodeJS的基本语法及运用，可运用express做简单的博客系统，实际项目经验还有待开展",
     "power":"50%",
