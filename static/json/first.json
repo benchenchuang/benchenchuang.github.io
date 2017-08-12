@@ -1,4 +1,9 @@
 ﻿[
+    {
+    "pic":"static/images/zhihu.png",
+    "name":"知乎日报Vue",
+    "link":"https://benchenchuang.github.io/daily_view/#/"
+  },
    {
     "pic":"static/images/douban.png",
     "name":"豆瓣正在上映电影",
