@@ -6,8 +6,8 @@
   },
    {
     "pic":"static/images/douban.png",
-    "name":"豆瓣正在上映电影",
-    "link":"https://benchenchuang.github.io/douban-movie/#/"
+    "name":"Vue 仿豆瓣电影App",
+    "link":"https://benchenchuang.github.io/movie/#/"
   },
   {
     "pic":"static/images/doctors.png",
