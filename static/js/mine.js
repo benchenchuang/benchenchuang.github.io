@@ -14,7 +14,7 @@ window.onload=function() {
 
     var animating = false;
     var cardsCounter = 0;
-    var numOfCards = 8;
+    var numOfCards = 7;
     var decisionVal = 90;
     var pullDeltaX = 0;
     var deg = 0;
