@@ -1,9 +1,9 @@
 ﻿[
   {
-   "style":"skill_Node",
+   "style":"skill_php",
    "name1":"Nd",
    "name2":"NodeJS",
-   "txt":"熟悉NodeJS的基本语法及运用，可运用express或koa框架做简单的博客系统，小商城等，实际项目经验还有待开展",
+   "txt":"熟悉NodeJS的基本语法及运用，可运用express或koa框架做简单的博客系统，小商城等",
    "power":"60%",
    "power_txt":"熟悉度"
  },
@@ -20,7 +20,7 @@
    "name1":"Jq",
    "name2":"Jquery",
    "txt":"能够熟练使用jQuery进行页面交互实现及数据交互的实现",
-   "power":"4年",
+   "power":"5年",
    "power_txt":"使用年限"
  },
  {
@@ -28,7 +28,7 @@
    "name1":"Js",
    "name2":"JavaScript",
    "txt":"能够运用JavaScript进行页面交互效果的实现，熟悉Ajax、Json等前端开发技术",
-   "power":"4年",
+   "power":"5年",
    "power_txt":"使用年限"
  },
  {
@@ -36,7 +36,7 @@
    "name1":"H5",
    "name2":"HTMl5+CSS3",
    "txt":"熟悉HTML5特性和HTML5最新规范，能够熟练运用HTML5特性构建移动端的WebApp，基于HTML5.0标准进行页面制作；",
-   "power":"4年",
+   "power":"5年",
    "power_txt":"使用年限"
  },
  {
